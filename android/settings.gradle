@@ -1,0 +1,3 @@
+rootProject.name = 'TextClipedIssue'
+
+include ':app'
